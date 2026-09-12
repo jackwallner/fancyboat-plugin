@@ -26,6 +26,3 @@ RuneLite plugin that adds rainbow color skinning effects to sailing boats in Old
 - Follow RuneLite plugin conventions and API patterns.
 - Config options via RuneLite's `@ConfigItem` annotations.
 - Keep overlay rendering efficient — runs every game tick.
-
-## Subagent delegation
-Follow the global CLAUDE.md subagent rules: ask Jack for the model before spawning, spawn at most one at a time unless Jack explicitly approves more, and never allow a subagent to spawn another subagent.
