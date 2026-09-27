@@ -9,11 +9,11 @@ RuneLite plugin that adds rainbow color skinning effects to sailing boats in Old
 - **Build:** Gradle
 
 ## Structure
-- `src/main/java/com/fancyboat/` — Plugin source
-  - `FancyBoatPlugin.java` — Main plugin class
-  - `FancyBoatConfig.java` — Configuration interface
-  - `FancyBoatOverlay.java` — Rendering overlay
-- `src/main/resources/` — Plugin metadata
+- `src/main/java/com/fancyboat/`: Plugin source
+  - `FancyBoatPlugin.java`: Main plugin class
+  - `FancyBoatConfig.java`: Configuration interface
+  - `FancyBoatOverlay.java`: Rendering overlay
+- `src/main/resources/`: Plugin metadata
 - `build.gradle` / `settings.gradle` — Build configuration
 
 ## Development
